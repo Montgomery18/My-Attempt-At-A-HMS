@@ -3,7 +3,7 @@ Made with c# window forms in visual studio with the database being made in sqlit
 
 All data in the database is made up.
 
-To note:
+## Assembling It
 When you assemble the program make sure the database and the images in the folder "Database and Password Strength Images" are put beside the .exe (usually in the bin\Debug(or release)\net6.0-windows if using visual studio)
 
 ## Design
