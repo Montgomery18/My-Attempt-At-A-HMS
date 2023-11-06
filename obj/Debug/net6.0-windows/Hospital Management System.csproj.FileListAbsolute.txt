@@ -1,0 +1,159 @@
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.exe
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.deps.json
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.runtimeconfig.json
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.pdb
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.AssemblyInfoInputs.cache
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.AssemblyInfo.cs
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.csproj.CopyComplete
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\refint\Hospital Management System.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.pdb
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.genruntimeconfig.cache
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\ref\Hospital Management System.dll
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.loginPage.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Properties.Resources.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.createAccount.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.exe
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.deps.json
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.runtimeconfig.json
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.pdb
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.createAccount.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.loginPage.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Properties.Resources.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.AssemblyInfoInputs.cache
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.AssemblyInfo.cs
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.csproj.CopyComplete
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\refint\Hospital Management System.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.pdb
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.genruntimeconfig.cache
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\ref\Hospital Management System.dll
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.ResetPassword.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuSysAdmin.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.ResetPassword.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuDoctor.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuManager.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuNurse.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuReceptionist.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.PatientInformation.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Conditions.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.AccountManagement.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Appointments.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.JobRoles.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.ViewNurseDoctorID.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.ResetRequests.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.StaffInformation.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.DiagnosisDetails.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Archive.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.LabTestResults.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuNoAccess.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.AccountManagement.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Appointments.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Archive.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Conditions.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.DiagnosisDetails.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.JobRoles.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.LabTestResults.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuDoctor.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuManager.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuNoAccess.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuNurse.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuReceptionist.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuSysAdmin.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.PatientInformation.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.ResetRequests.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.StaffInformation.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.ViewNurseDoctorID.resources
+C:\Users\Monty\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.StaffNames.resources
+C:\Users\montg\Desktop\Software Projects\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.StaffNames.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.exe
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.deps.json
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.runtimeconfig.json
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.dll
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\Hospital Management System.pdb
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.AccountManagement.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Appointments.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Archive.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Conditions.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.CreateAccount.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.DiagnosisDetails.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.JobRoles.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.LabTestResults.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.LoginPage.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuDoctor.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuManager.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuNoAccess.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuNurse.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuReceptionist.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.MainMenuSysAdmin.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.PatientInformation.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.Properties.Resources.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.ResetPassword.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.ResetRequests.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.StaffInformation.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.StaffNames.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital_Management_System.ViewNurseDoctorID.resources
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.AssemblyInfoInputs.cache
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.AssemblyInfo.cs
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.csproj.CopyComplete
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.dll
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\refint\Hospital Management System.dll
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.pdb
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\Hospital Management System.genruntimeconfig.cache
+C:\Users\Monty\Desktop\Software Projects\Stage 1 and 2\Hospital Management System\obj\Debug\net6.0-windows\ref\Hospital Management System.dll

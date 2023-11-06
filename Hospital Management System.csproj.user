@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AccountManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Appointments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Archive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Conditions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DiagnosisDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="JobRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LabTestResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenuDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenuManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenuNoAccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenuNurse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenuReceptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenuSysAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResetRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StaffInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StaffNames.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewNurseDoctorID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
