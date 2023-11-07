@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qzlhp5wlD4SDu1kJ2vKvQqhaEvv/B8mWqLg1GXWG5hPfskVj+lLTnDfMo9idp/h3uws41j31t23zs7CJvo3OPw==",
+  "dgSpecHash": "l171AwE+y8ZqFFuNwYFX/P5axmKqOd76aa6lX6IkM0Kg+E9/kgVcu+pxx2k+KahcH9oD+C0NCPPRLnkBw1BcAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Monty\\Desktop\\Software Projects\\Stage 1 and 2\\Hospital Management System\\Hospital Management System.csproj",
+  "projectFilePath": "C:\\Users\\Monty\\Desktop\\Git Projects\\Hospital Management System\\Hospital Management System.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Monty\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Monty\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
