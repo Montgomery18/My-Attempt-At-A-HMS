@@ -1221,11 +1221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Monty\\Desktop\\Software Projects\\Stage 1 and 2\\Hospital Management System\\Hospital Management System.csproj",
+      "projectUniqueName": "C:\\Users\\Monty\\Desktop\\Git Projects\\Hospital Management System\\Hospital Management System.csproj",
       "projectName": "Hospital Management System",
-      "projectPath": "C:\\Users\\Monty\\Desktop\\Software Projects\\Stage 1 and 2\\Hospital Management System\\Hospital Management System.csproj",
+      "projectPath": "C:\\Users\\Monty\\Desktop\\Git Projects\\Hospital Management System\\Hospital Management System.csproj",
       "packagesPath": "C:\\Users\\Monty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Monty\\Desktop\\Software Projects\\Stage 1 and 2\\Hospital Management System\\obj\\",
+      "outputPath": "C:\\Users\\Monty\\Desktop\\Git Projects\\Hospital Management System\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
